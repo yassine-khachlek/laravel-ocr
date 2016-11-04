@@ -1,0 +1,11 @@
+{
+    "name": "yassine-khachlek/laravel-ocr",
+    "description": "Laravel OCR",
+    "authors": [
+        {
+            "name": "Yassine Khachlek",
+            "email": "yassine.khachlek@gmail.com"
+        }
+    ],
+    "require": {}
+}
