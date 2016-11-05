@@ -17,5 +17,13 @@
             "email": "yassine.khachlek@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/"
+        ],
+        "psr-4": {
+            "Yk\\LaravelOcr\\": "src/"
+        }
+    }
 }
