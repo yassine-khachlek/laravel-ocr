@@ -4,7 +4,7 @@ A wrapper for gocr for fast and easy use with Laravel.
 
 ![alt text][phone] => 9504990559
 
-[phone]: https://github.com/yassine-khachlek/laravel-ocr/src/examples/images/number.png "number.png"
+[phone]: https://raw.githubusercontent.com/yassine-khachlek/laravel-ocr/master/src/examples/images/number.png "number.png"
 
 ### Installation
 
