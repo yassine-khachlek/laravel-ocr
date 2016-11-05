@@ -1,6 +1,16 @@
 {
-    "name": "yassine-khachlek/laravel-ocr",
-    "description": "Laravel OCR",
+    "name": "yk/laravel-ocr",
+    "description": "A wrapper for gocr.",
+    "homepage": "https://github.com/yassine-khachlek/laravel-ocr",
+    "license": "GPLv2",
+    "keywords": [
+        "laravel",
+        "ocr",
+        "gocr",
+        "image",
+        "text",
+        "recognition"
+    ],
     "authors": [
         {
             "name": "Yassine Khachlek",
